@@ -26,7 +26,7 @@
 ## 🚀 Giới Thiệu | About Me
 
 <p align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Zob243dHh2c3I4ZnZna3JtY2JmanB3MDd6MGlmM2s4d3dvdXU0OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4dFwcnKzL2qD6/giphy.gif" alt="Coding GIF" width="40%" align="right"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2Rxd2MwNTVramt6YWNmYWxtYjVwZWh2OTZrbW0wa3RxNGg1eW9ocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding GIF" width="40%" align="right"/>
 </p>
 
 Chào bạn, tôi là **Đỗ Nguyễn Minh Hương**, một sinh viên với niềm đam mê xây dựng và phát triển các ứng dụng website, di động và nhiều nền tảng khác. Tôi đang phát triển kiến thức về full-stack website, với thế mạnh về back-end và kiến trúc hệ thống.
