@@ -83,13 +83,13 @@ Chào bạn, tôi là **Đỗ Nguyễn Minh Hương**, một sinh viên với ni
 <table>
   <tr>
     <td>
-      <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-01">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-01&theme=radical&cache_seconds=10" alt="Project 1">
+      <a href="https://github.com/MinhHuong122/flower-shop-php">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhHuong122&repo=flower-shop-php&theme=radical&cache_seconds=10" alt="flower-shop-php">
       </a>
     </td>
     <td>
-      <a href="https://github.com/huynhkhuanit/f8-htmlcss-project-02">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=huynhkhuanit&repo=f8-htmlcss-project-02&theme=tokyonight&cache_seconds=10" alt="Project 2">
+      <a href="https://github.com/MinhHuong122/java-desktop-application">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=MinhHuong122&repo=java-desktop-application&theme=tokyonight&cache_seconds=10" alt="java-desktop-application">
       </a>
     </td>
   </tr>
